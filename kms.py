@@ -1,1 +1,2 @@
 print('kms')
+print('psh')
